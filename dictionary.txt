@@ -1,0 +1,91 @@
+"reparación de muros"
+"muros fisurados, desprendimiento de aplanados en muros"
+"daños menores de infraestructura"
+"reparación de instalaciones eléctricas"
+"reparación de fugas o rupturas de instalaciones hidráulicas"
+"daño severo estructural en riesgo de colapso"
+"muros divisorios de tabique, block o tablaroca colapsados o con grietas"
+"reconstrucción parcial"
+"información en construcción"
+"reparación de cuarteaduras en firme"
+"fisuras en muros"
+"reparación de daños en recubrimientos de muros"
+"reparación de luminarias"
+"reposición de vidrios rotos"
+"reparación de bardas"
+"reparación de fugas o rupturas de instalaciones sanitarias"
+"reparacion de grietas en techos y aplicacion de pintura"
+"reparación de ventanas y sanitarios"
+"reparación de cuarteaduras en pisos de loseta"
+"daño menor"
+"suministro y colocación de ventana y vidrios"
+"daños exteriores e interiores"
+"pago de mano de obra por la reparación de muros y techos"
+"aplicación de pintura"
+"desplome de aplanados en muros y losas"
+reparación
+de
+muros
+fisurados
+desprendimiento
+aplanados
+en
+daños
+menores
+infraestructura
+instalaciones
+eléctricas
+fugas
+o
+rupturas
+hidráulicas
+daño
+severo
+estructural
+riesgo
+colapso
+divisorios
+tabique
+block
+tablaroca
+colapsados
+con
+grietas
+reconstrucción
+parcial
+información
+construcción
+cuarteaduras
+firme
+fisuras
+recubrimientos
+luminarias
+reposición
+vidrios
+rotos
+bardas
+fugas
+sanitarias
+techos
+y
+aplicacion
+pintura
+ventanas
+sanitarios
+pisos
+loseta
+menor
+suministro
+colocación
+ventana
+exteriores
+e
+interiores
+pago
+mano
+obra
+por
+la
+aplicación
+desplome
+losas
